@@ -1,0 +1,12 @@
+Package: Rpackage
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9001
+Authors@R: 
+    person(given = "Chao", family = "Lv", role = c("aut", "cre"), email = "chaolv1601@gmail.com", comment = c(ORCID = "0000-0001-7725-9174"))
+Maintainer: LvChao <chaolv1601@gmail.com>
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
